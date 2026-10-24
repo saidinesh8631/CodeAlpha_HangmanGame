@@ -51,7 +51,6 @@ CodeAlpha_HangmanGame/
 │
 ├── hangman.py
 ├── README.md
-└── .gitignore
 ```
 
 ## ⚙️ Requirements
@@ -154,9 +153,6 @@ The project can be improved by adding:
 - **Project Type:** Beginner-level Python console application
 
 ## 📜 License
-
-This project is created for educational and learning purposes.
-
 ---
 
 **Developed with Python as part of my CodeAlpha Python Programming Internship.**
